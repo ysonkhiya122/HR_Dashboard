@@ -30,4 +30,4 @@ To overcome the reasons for a high attrition rate in the organization, consider 
 
 Implementing these suggestions can create a positive work environment, offer growth opportunities to employees, and retain top talent, ultimately reducing the attrition rate and improving the overall performance of the organization.
 
-For a more detailed report based on the dashboard, please refer to the [Report](https://github.com/ysonkhiya122/HR_Dashboard/blob/main/HR_Analysis.pbix).
+For a more detailed report based on the dashboard, please refer to the [Report]([https://github.com/ysonkhiya122/HR_Dashboard/blob/main/HR_Analysis.pbix](https://app.powerbi.com/groups/me/reports/20de1a49-3544-4705-ae1c-c402fe37c426/ReportSection?experience=power-bi)https://app.powerbi.com/groups/me/reports/20de1a49-3544-4705-ae1c-c402fe37c426/ReportSection?experience=power-bi).
